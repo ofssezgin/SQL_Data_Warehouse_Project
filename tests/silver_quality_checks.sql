@@ -1,5 +1,8 @@
 -- QUALITY CHECKS
-
+/* 
+	This script performs various quality checks for data consistency, accuracy,
+	and standardization across the 'Silver' schema.
+*/
 -- Check for nulls or duplicates in primary key
 -- Expectation: no results
 SELECT prd_id,
