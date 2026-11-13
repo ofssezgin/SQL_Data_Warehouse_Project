@@ -56,3 +56,8 @@ The Gold layer powers various business insights, including:
 4. **ETL Execution:** Execute the scripts in the following order to populate the layers: `Bronze` -> `Silver` -> `Gold`.
 5. **Validation:** Run the scripts in the `tests` folder to ensure all data quality checks pass.
 6. **Analysis:** Use the scripts in the `scripts` folder (analytics/views) to explore the data and generate reports.
+
+## Acknowledgments
+This project was built by following the
+[SQL Data Warehouse course by Data With Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE).
+The original project template and dataset come from that course.
