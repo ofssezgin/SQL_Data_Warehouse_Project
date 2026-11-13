@@ -1,7 +1,7 @@
 # Modern Data Warehouse Implementation (SQL Server)
 
 ## 📌 Project Overview
-This project is an end-to-end Data Warehousing solution built from scratch using **Microsoft SQL Server**. It demonstrates the implementation of the **Medallion Architecture** (Bronze, Silver, and Gold layers) to extract, transform, and load (ETL) data from disparate sources (CRM and ERP systems) into a centralized, analytical data model. 
+This project is an end-to-end Data Warehousing solution built an end-to-end data warehouse (course-guided project) using **Microsoft SQL Server**. It demonstrates the implementation of the **Medallion Architecture** (Bronze, Silver, and Gold layers) to extract, transform, and load (ETL) data from disparate sources (CRM and ERP systems) into a centralized, analytical data model. 
 
 The primary goal of this project is to transform raw, inconsistent data into a structured, high-quality Star Schema ready for Business Intelligence (BI) reporting and Exploratory Data Analysis (EDA).
 
